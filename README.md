@@ -23,7 +23,7 @@ Deploying Spring Boot Microservices on Docker
 
 1. Create Dockerfile in your working directory.
 
-2. Run command: docker -f DockerFile -t dockerdemo .
+2. Run command: docker build -f DockerFile -t dockerdemo .
 
 3. Run command: docker images to see if the dockerdemo image exists.
 
