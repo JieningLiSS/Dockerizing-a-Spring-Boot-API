@@ -9,7 +9,7 @@ Deploying Spring Boot Microservices on Docker
 
 ## Step 1
 
-1. Open Spring Starter(https://start.spring.io) to create a Java Maven application with Web dependentcy.
+1. Open [Spring Starter](https://start.spring.io) to create a Java Maven application with Web dependentcy.
 
 2. Import as an existing Maven project in your IDE
 
