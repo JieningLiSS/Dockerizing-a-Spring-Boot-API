@@ -2,10 +2,11 @@
 
 Deploying Spring Boot Microservices on Docker
 
-## Built With
+## Prerequisite
 
-- Java 8
-- Docker
+-[Install Docker](https://docs.docker.com/install/)
+
+-[Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
 ## Step 1
 
