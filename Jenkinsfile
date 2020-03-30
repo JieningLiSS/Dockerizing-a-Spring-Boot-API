@@ -25,7 +25,7 @@ pipeline {
         stage ('Deployment Stage') {
             steps {
                 withMaven(maven : 'Maven') {
-                    sh 'mvn deploy'
+                    sh 'mvn deploy -DskipTests -Dmaven.install.skip=true'
                 }
             }
         }
