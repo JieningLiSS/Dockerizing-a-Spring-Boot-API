@@ -28,6 +28,6 @@ Deploying Spring Boot Microservices on Docker
 
 3. Run command: docker images to see if the dockerdemo image exists.
 
-4. Run command: docker run -p 8082:8080 dockerdemo.
+4. Run command: docker run -p 8082:8082 dockerdemo.
 
 The Spring Boot Application is running from the Docker container now.
